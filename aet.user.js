@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name        AET
 // @namespace   http://www.douban.com/wangbo87/
+// @updateURL   https://github.com/killong/aet/raw/master/aet.user.js
 // @description Advanced Edit Tool
 // @require     http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.1.min.js
 // @include     http://movie.douban.com/*
